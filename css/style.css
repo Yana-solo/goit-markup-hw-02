@@ -1,7 +1,7 @@
 body {
-  font-family: 'Roboto' sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #434455;
-  background-color: #fcfcfc;
+  background-color: #ffffff;
 }
 ul,
 ol {
@@ -45,6 +45,9 @@ button {
 .nav-item:focus {
   color: #404bbf;
 }
+.adress {
+  font-style: normal;
+}
 .adress-link {
   font-weight: 400;
   font-size: 16px;
@@ -64,6 +67,14 @@ button {
 .solutions {
   background-color: #2e2f42;
 }
+.h-solutions {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07143;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #fff;
+}
 .button-sol {
   font-weight: 500;
   font-size: 16px;
@@ -78,14 +89,6 @@ button {
 .button-sol:focus {
   rgba: (0, 0, 0, 0.15);
   background-color: #404bbf;
-}
-.h-solutions {
-  font-weight: 700;
-  font-size: 56px;
-  line-height: 1.07143;
-  letter-spacing: 0.02em;
-  text-align: center;
-  color: #fff;
 }
 /* #endregion solutions */
 
