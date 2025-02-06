@@ -26,13 +26,13 @@ button {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #2e2f42;
+  color: #4d5ae5;
 }
 .logo-h {
-  color: #4d5ae5;
+  color: #2e2f42;
 }
 .nav-item {
   font-weight: 500;
@@ -70,12 +70,13 @@ button {
 .h-solutions {
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.07143;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
 }
 .button-sol {
+  font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -119,13 +120,15 @@ button {
 .h-caption {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
+  text-transform: capitalize;
   text-align: center;
   color: #2e2f42;
 }
 .item-capt {
   text-align: center;
+  background-color: #ffffff;
 }
 .title-capt {
   font-weight: 500;
@@ -152,9 +155,10 @@ button {
 .heading {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
+  text-transform: capitalize;
   color: #2e2f42;
 }
 .h-heading {
@@ -184,10 +188,10 @@ button {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #f4f4fd;
+  color: #4d5ae5;
 }
 .logo-style-f {
-  color: #4d5ae5;
+  color: #f4f4fd;
 }
 .p-footer {
   font-weight: 400;
