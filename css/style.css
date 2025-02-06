@@ -13,11 +13,6 @@ a {
 
 /* #region header */
 
-.header {
-  background-color: #ffffff;
-  size: 56px;
-  line: 60px;
-}
 button {
   cursor: pointer;
   font-family: 'Raleway', sans-serif;
